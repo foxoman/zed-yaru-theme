@@ -1,0 +1,7 @@
+id = "yaru"
+name = "Yaru"
+version = "0.0.1"
+schema_version = 1
+authors = ["foxoman <sultan@foxoman.net>"]
+description = "Light and dark Yaru theme for Zed."
+repository = "https://github.com/foxoman/zed-yaru-theme"
